@@ -35,11 +35,11 @@ Ein Container muss aber vor dem Bearbeiten entriegelt werden, dass macht es ein 
 
 Der Ordner enthält die folgenden Unterordner:
 
-- data: die eigentlichen Inhalte
-  - Debitoren: Umsatzgenerierende Vorgänge, Kundenvorgänge, etc.
-  - Kreditoren: Vorgänge zu Betriebsaufwändungen etc.
-  - Banken: Zahlungsbelege über Geschäftsvorgänge
-- tasks: Materialien, Vorlagen, Scripts etc. zur Unterstützung von workflows
+- [data](/data): die eigentlichen Inhalte
+  - [Debitoren](/data/debitoren): Umsatzgenerierende Vorgänge, Kundenvorgänge, etc.
+  - [Kreditoren](/data/kreditoren): Vorgänge zu Betriebsaufwändungen etc.
+  - [Banken](/data/banken): Zahlungsbelege über Geschäftsvorgänge
+- [tasks](/tasks): Materialien, Vorlagen, Scripts etc. zur Unterstützung von workflows
 
 ### Dateiformate
 
