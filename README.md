@@ -18,8 +18,10 @@ So ist die Vorlage aufgebaut:
 
 ### Historie mit Git
 
-Git ist ein Versionierungstool, das eine Änderungshistorie für einen Ordner mit seinen Dateien und Unterordnern bietet.
+[Git] ist ein Versionierungstool, das eine Änderungshistorie für einen Ordner mit seinen Dateien und Unterordnern bietet.
 Die Änderungen kann man selbst in Schritte zusammenfassen, so dass eine inhaltlich nachvollziehbare Historie entsteht.
+
+[git]: https://git-scm.com/
 
 ### Verschlüsselung mit Cryptomator (optional)
 
