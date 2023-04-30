@@ -20,6 +20,15 @@ So ist die Vorlage aufgebaut:
 
 Git ist ein Versionierungstool, das eine Änderungshistorie für einen Ordner mit seinen Dateien und Unterordnern bietet.
 Die Änderungen kann man selbst in Schritte zusammenfassen, so dass eine inhaltlich nachvollziehbare Historie entsteht.
+Jeder dieser Schritte (Commits) erhält eine kurze Beschreibung (Commit-Nachricht).
+Beim Schreiben der Commit-Nachrichten können Konventionen eingehalten werden, die die Historie nachvollziehbarer machen:
+
+- Die Commit-Nachricht beginnt mit einem Verb, das den Vorgang beschreibt.
+  - Buy
+  - Sell
+- Die Nachricht beschreibt, um welchen Gegenstand es sich handelt und wer in den Vorgang involviert ist.
+- Auf den Effekt oder das Warum kommt es an, nicht darauf, welche Dateien man wie verschoben oder geändert hat.
+  Letzteres geht auch aus dem Diff von Git hervor.
 
 ### Verschlüsselung mit Cryptomator (optional)
 
